@@ -6,7 +6,7 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-ArtronShop_SHT45	KEYWORD1
+ArtronShop_SHT3x	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
